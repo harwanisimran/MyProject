@@ -1,1 +1,1 @@
-# CompanyTest
+# MyProject
